@@ -1,6 +1,18 @@
-# wallpaper_app
+# Triveni-Wallpaper_App
 
-A new Flutter project.
+Triveni - A wallpaper App in Flutters which covers :  
+• Pixabay Api data Fetching 
+• Download Wallpapers 
+• Share Wallpaper 
+• Set Image as Home as well as Lockscreen
+
+![w1_1_350x720](https://user-images.githubusercontent.com/73191264/112118459-69460b80-8be2-11eb-9c34-08fbe29b953e.png)
+
+![w2_350x720](https://user-images.githubusercontent.com/73191264/112118486-6ea35600-8be2-11eb-8a5b-0ef06d6e80bf.png)
+
+![w3_350x720](https://user-images.githubusercontent.com/73191264/112118502-719e4680-8be2-11eb-904f-36a91bc44be8.png)
+
+![w4_350x720](https://user-images.githubusercontent.com/73191264/112118516-7531cd80-8be2-11eb-8d91-84d694ed258c.png)
 
 ## Getting Started
 
